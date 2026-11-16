@@ -1,0 +1,12 @@
+# Binarios
+bin/
+photon
+
+# Objetos
+*.o
+*.obj
+
+# Editor
+.vscode/
+*.swp
+*~

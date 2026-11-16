@@ -1,3 +1,20 @@
+/*
+ * photon.c - Benchmark de CPU y disco en C
+ * Copyright (C) 2026 Julio <jucemepe2312@gmail.com>
+ *
+ * Este programa es software libre: puedes redistribuirlo y/o modificarlo
+ * bajo los términos de la GNU General Public License publicada por la
+ * Free Software Foundation, ya sea la versión 3 de la Licencia, o
+ * (a tu elección) cualquier versión posterior.
+ *
+ * Este programa se distribuye con la esperanza de que sea útil,
+ * pero SIN NINGUNA GARANTÍA; ni siquiera la garantía implícita de
+ * COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Véase la
+ * GNU General Public License para más detalles.
+ *
+ * Deberías haber recibido una copia de la GNU General Public License
+ * junto con este programa. Si no, consulta <https://www.gnu.org/licenses/>.
+ */
 #include <stdio.h>
 #include <time.h>
 #include <fcntl.h>
